@@ -1,0 +1,155 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Soundscape project_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="54.2101566039" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="TITLE" value="10.4.15"/>
+		<tag name="Software" value="Lavf56.23.106"/>
+		<tag name="ARTIST" value="InspectorJ"/>
+	</tags>
+	<wavetrack name="Texting" isSelected="0" height="61" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="187200">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f2dd.au" len="187200" min="-0.098732" max="0.088668" rms="0.005881"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Texting" isSelected="0" height="61" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="187200">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f960.au" len="187200" min="-0.098732" max="0.088668" rms="0.005881"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Blowdryer " isSelected="0" height="39" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="745600">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fc02.au" len="262144" min="-0.126343" max="0.137817" rms="0.025195"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f85c.au" len="262144" min="-0.142853" max="0.11908" rms="0.019019"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f1d8.au" len="221312" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Blowdryer " isSelected="0" height="39" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="745600">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f8d0.au" len="262144" min="-0.126343" max="0.137817" rms="0.025195"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f10c.au" len="262144" min="-0.142853" max="0.11908" rms="0.019019"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1fd30.au" len="221312" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Shot Glasses" isSelected="0" height="41" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="786444">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fb3c.au" len="117051" min="-1.0" max="0.999969" rms="0.059922"/>
+				</waveblock>
+				<waveblock start="117051">
+					<simpleblockfile filename="eff1fe45.au" len="157829" min="-0.067596" max="0.075073" rms="0.007678"/>
+				</waveblock>
+				<waveblock start="274880">
+					<simpleblockfile filename="eff1fcd1.au" len="157829" min="-0.51532" max="0.325714" rms="0.013048"/>
+				</waveblock>
+				<waveblock start="432709">
+					<simpleblockfile filename="eff1fb07.au" len="144482" min="-0.282288" max="0.32135" rms="0.013846"/>
+				</waveblock>
+				<waveblock start="577191">
+					<simpleblockfile filename="eff1ffd2.au" len="209253" min="-0.184082" max="0.162445" rms="0.017635"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Shot Glasses" isSelected="0" height="41" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="786444">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f2bb.au" len="117051" min="-1.0" max="0.999969" rms="0.062014"/>
+				</waveblock>
+				<waveblock start="117051">
+					<simpleblockfile filename="eff1f935.au" len="157829" min="-0.066162" max="0.069275" rms="0.00714"/>
+				</waveblock>
+				<waveblock start="274880">
+					<simpleblockfile filename="eff1f9ff.au" len="157829" min="-0.444733" max="0.301361" rms="0.011969"/>
+				</waveblock>
+				<waveblock start="432709">
+					<simpleblockfile filename="eff1f0ee.au" len="144482" min="-0.372528" max="0.481171" rms="0.013902"/>
+				</waveblock>
+				<waveblock start="577191">
+					<simpleblockfile filename="eff1f08a.au" len="209253" min="-0.182526" max="0.153412" rms="0.016543"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Car Door" isSelected="0" height="55" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="249816">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f4c8.au" len="249816" min="-1.0" max="0.999969" rms="0.077306"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Car Door" isSelected="0" height="55" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="249816">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f264.au" len="249816" min="-1.0" max="0.999969" rms="0.077287"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Car Honk" isSelected="0" height="66" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="67613">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f3ed.au" len="67613" min="-0.292511" max="0.289703" rms="0.068202"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Shot Glasses Sliding" isSelected="1" height="47" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="156737">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1ff43.au" len="156737" min="-0.36853" max="0.494568" rms="0.060589"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Shot Glasses Sliding" isSelected="1" height="47" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="156737">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f609.au" len="156737" min="-0.378632" max="0.476288" rms="0.062571"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
